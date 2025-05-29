@@ -1,0 +1,17 @@
+numpy<=1.24
+pandas
+matplotlib
+opencv-python
+scikit-learn
+scikit-image
+seaborn
+tqdm
+Pillow
+scipy
+umap-learn
+imbalanced-learn
+tensorflow<2.16  # TensorFlow 2.16+ requires NumPy >=1.25
+keras
+numba
+jupyter
+openpyxl
